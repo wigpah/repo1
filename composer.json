@@ -1,8 +1,0 @@
-{
-  "name": "your/project-name",
-  "description": "A simple project",
-  "type": "project",
-  "require": {
-    "guzzlehttp/guzzle": "^7.0"
-  }
-}
